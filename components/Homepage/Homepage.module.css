@@ -1,0 +1,47 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.listSection {
+    margin-top: 2%;
+    width: 50%;
+}
+
+.itemSection {
+    background-color: antiquewhite;
+    margin-bottom: 4%;
+}
+
+.image-section {
+    width: 15px;
+    margin-left: 5px;
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.loading {
+    margin-top: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.error {
+    margin-top: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 48px;
+    color: red;
+    font-weight: 700;
+}
